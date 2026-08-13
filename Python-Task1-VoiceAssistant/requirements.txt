@@ -1,0 +1,4 @@
+SpeechRecognition
+PySide6
+yt-dlp
+PyAudio
